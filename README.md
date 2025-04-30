@@ -12,4 +12,5 @@ To run this project:
 
 ## Branches
 main: Stable version — produces the desired watercolor effect.
+
 mem_mgmt (in progress): Refactoring for improved memory efficiency by replacing the 3D int vector with a 1D char vector.
